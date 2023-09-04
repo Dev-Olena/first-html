@@ -1,9 +1,20 @@
-p {
-    color: violet;
+
+#first {
+    color:aquamarine;
 }
-.red-text {
-    color: red;
+.color-blue {
+color: blue;
 }
-#green-paragraph {
+
+
+.color-green {
     color: green;
+
+}
+p {
+    color: brown;
+}
+.color-red {
+    color: red;
+
 }
